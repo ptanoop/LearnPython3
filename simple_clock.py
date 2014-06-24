@@ -4,9 +4,7 @@
 	Author	:	ANOOP P T
 	Date	:	24/06/2014
  
-	Problem	:	Have the user enter a number and
-	                find all Prime Factors (if there are any) and
-	                display them.
+	Problem	:	Simple Clock
 	
 	
 """
